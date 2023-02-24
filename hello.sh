@@ -3,4 +3,4 @@
 echo "hello git versiyon kontrol sistemi"
 echo "hello from second line for git"
 echo "ilk commit yapıldı" 
-echo "versiyon düşülecek satır"
+echo "githuba geçmeden önceki satır"

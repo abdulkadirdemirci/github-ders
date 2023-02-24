@@ -1,2 +1,2 @@
 ikinci oluşturulan dosya
-versiyon düşülecek satır
+githuba geçmeden önceki satır
